@@ -22,3 +22,22 @@ separate file:
 ---
 
 ## Repository Structure
+src/ → Python source files
+docs/ → Assignment report (PDF)
+video/ → Video demonstration link
+---
+
+## Academic Context
+- **Module:** CSY1020 – Problem Solving and Programming  
+- **Assessment:** Assignment 1  
+- **Institution:** University of Northampton  
+- **Status:** Completed  
+
+This repository is provided for **portfolio and learning reference only**.
+Formal assessment submissions were made via NILE in accordance with module requirements.
+
+---
+
+Yours Sincerely
+
+Abdinasir Jama  
