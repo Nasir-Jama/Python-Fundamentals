@@ -19,14 +19,6 @@ separate file:
 - `Task3.py` – Dictionary-based data storage, calculations, and file output
 - `Task4.py` – Program decomposition using multiple functions
 
----
-
-## Repository Structure
-src/ → Python source files
-docs/ → Assignment report (PDF)
-video/ → Video demonstration link
----
-
 ## Academic Context
 - **Module:** CSY1020 – Problem Solving and Programming  
 - **Assessment:** Assignment 1  
